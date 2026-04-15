@@ -14,7 +14,7 @@
 - If I think of something, I build it.
 
 
-## GitHub Stats & Trophies
+## GitHub Stats
 <p align="center">
   <a href="https://github.com/itsF4LCON">
     <img src="https://streak-stats.demolab.com/?user=itsF4LCON&theme=dark&hide_border=true&cache_seconds=86400" alt="itsF4LCON's GitHub Streak" width="49%" />
