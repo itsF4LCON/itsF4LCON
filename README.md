@@ -19,7 +19,6 @@
   <a href="https://github.com/itsF4LCON">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsF4LCON&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="itsF4LCON's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=itsF4LCON&theme=dark&hide_border=true&cache_seconds=86400" alt="itsF4LCON's GitHub Streak" width="49%" />
 </p>
 
 
@@ -31,3 +30,4 @@
 > ## Frontend
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk1bHN5bzVxN2IwdmFveWEzM3drcnB6dzkwemxiZmhhaWVzODJ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TrVla4Z2PYEkU/giphy.gif" alt="Banner" width="100%" />
