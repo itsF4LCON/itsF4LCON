@@ -19,7 +19,6 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=itsF4LCON&theme=highcontrast&hide_border=true&short_numbers=true&card_width=800" alt="GitHub Streak" />
   </a>
-   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=itsF4LCON&theme=dark&radius=10" alt="itsF4LCON's Activity Graph" />
 </p>
 
 
