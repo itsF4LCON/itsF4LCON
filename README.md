@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm F4LCON</h1>
+<h1 align="center">Hi I'm F4LCON</h1>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=itsF4LCON">
@@ -8,13 +8,13 @@
 
 <img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+## About Me
 - Self-taught dev from Belgium, been coding since I was 12.
 - I build whatever interests me: games, apps, browser extensions, tools, home servers.
 - If I think of something, I build it.
 
 
-## 📊 GitHub Stats & Trophies
+## GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/itsF4LCON">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsF4LCON&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="itsF4LCON's GitHub Stats" />
@@ -23,7 +23,7 @@
 </p>
 
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 > ## Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="48" height="48" style="margin: 4px;" /></p>
@@ -34,7 +34,4 @@
 > ## Backend
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="48" height="48" style="margin: 4px;" /></p>
 
-<div align="center">
-  <img src="none" alt="Bottom Line" width="100%" />
-</div>
 
