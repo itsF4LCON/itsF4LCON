@@ -16,8 +16,8 @@
 
 ## GitHub Stats
 <p align="center">
-  <a href="https://github.com/itsF4LCON">
-    <img src="https://streak-stats.demolab.com/?user=itsF4LCON&theme=dark&hide_border=true&cache_seconds=86400" alt="itsF4LCON's GitHub Streak" width="49%" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=itsF4LCON&theme=highcontrast&hide_border=true&short_numbers=true&card_width=800" alt="GitHub Streak" />
   </a>
 </p>
 
