@@ -8,12 +8,6 @@
 
 <img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
 
-## About Me
-- Self-taught dev from Belgium, been coding since I was 12.
-- I build whatever interests me: games, apps, browser extensions, tools, home servers.
-- If I think of something, I build it.
-
-
 ## GitHub Stats
 <p align="center">
   <a href="https://git.io/streak-stats">
