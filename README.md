@@ -1,29 +1,27 @@
-<h1 align="center">Hi I'm F4LCON</h1>
+## Hi, I'm F4LCON
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=itsF4LCON">
-    <img src="https://komarev.com/ghpvc/?username=itsF4LCON&label=Profile%20views&color=00FFFF&style=flat-square" alt="itsF4LCON's profile views" />
-  </a>
-</p>
+Student and self-taught developer from Belgium, building security tools and things that run at the edge.
 
-<img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
+[xivlabs.tech](https://xivlabs.tech) · [PyPI](https://pypi.org/user/itsF4LCON/)
 
-## GitHub Stats
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=itsF4LCON&theme=highcontrast&hide_border=true&short_numbers=true&card_width=800" alt="GitHub Streak" />
-  </a>
-</p>
+<a href="https://git.io/streak-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=itsF4LCON&theme=dark&hide_border=true&background=00000000">
+    <img alt="GitHub streak for itsF4LCON" src="https://streak-stats.demolab.com?user=itsF4LCON&theme=default&hide_border=true&background=FFFFFF00">
+  </picture>
+</a>
 
+### Projects
 
-## Languages & Tools
+| Project | What it does | Stack |
+|---|---|---|
+| [**aps**](https://github.com/itsF4LCON/aps) | Edge anti-phishing scanner for links. [Try it live](https://xivlabs.tech/#aps-demo) | Rust, Cloudflare Workers, Workers AI |
+| [**desk**](https://github.com/itsF4LCON/desk) | Self-hosted remote desktop for Linux in any browser, 1080p60 over WebRTC | Rust, WebRTC, Cloudflare Tunnel |
+| [**blackhound**](https://github.com/itsF4LCON/blackhound) | OSINT reconnaissance for domains, IPs and social media | Python |
+| [**HandOfGod**](https://github.com/itsF4LCON/HandOfGod) | Control your cursor with hand gestures through a webcam | Python, OpenCV, MediaPipe |
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /></p>
+### Stack
 
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Thank You For Checking Me Out
-<img src="https://i.pinimg.com/originals/49/54/28/495428f9b711be182481e4f778a37dd9.gif" alt="Banner" width="100%" />
+**Languages:** Python · Rust · Swift · C# · JavaScript · GDScript<br>
+**Infra:** Cloudflare Workers · D1 · KV · Tunnel · Access · SQLite<br>
+**Focus:** OSINT · phishing detection · computer vision
