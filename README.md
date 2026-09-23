@@ -4,12 +4,7 @@ Student and self-taught developer from Belgium, building security tools and thin
 
 [xivlabs.tech](https://xivlabs.tech) · [PyPI](https://pypi.org/user/itsF4LCON/)
 
-<a href="https://git.io/streak-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=itsF4LCON&theme=dark&hide_border=true&background=00000000">
-    <img alt="GitHub streak for itsF4LCON" src="https://streak-stats.demolab.com?user=itsF4LCON&theme=default&hide_border=true&background=FFFFFF00">
-  </picture>
-</a>
+
 
 ### Projects
 
