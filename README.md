@@ -11,6 +11,7 @@ Student and self-taught developer from Belgium, building security tools and thin
 | Project | What it does | Stack |
 |---|---|---|
 | [**aps**](https://github.com/itsF4LCON/aps) | Edge anti-phishing scanner for links. [Try it live](https://xivlabs.tech/#aps-demo) | Rust, Cloudflare Workers, Workers AI |
+| [**hive**](https://github.com/itsF4LCON/hive) | SSH/HTTP honeypot that feeds a live attack map. [See it live](https://xivlabs.tech/#attacks) | Rust, Cloudflare Workers, D1 |
 | [**desk**](https://github.com/itsF4LCON/desk) | Self-hosted remote desktop for Linux in any browser, 1080p60 over WebRTC | Rust, WebRTC, Cloudflare Tunnel |
 | [**blackhound**](https://github.com/itsF4LCON/blackhound) | OSINT reconnaissance for domains, IPs and social media | Python |
 | [**HandOfGod**](https://github.com/itsF4LCON/HandOfGod) | Control your cursor with hand gestures through a webcam | Python, OpenCV, MediaPipe |
