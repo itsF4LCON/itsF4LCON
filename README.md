@@ -1,14 +1,11 @@
 <a href="https://xivlabs.tech">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="F4LCON: security tools and things that run at the edge" src="assets/banner-light.svg" width="100%">
-  </picture>
+  <img alt="F4LCON: security tools and things that run at the edge" src="assets/banner.svg" width="100%">
 </a>
 
 <p align="center">
-  <a href="https://xivlabs.tech/#attacks"><img alt="hive attacks in the last 24h" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhive.xivlabs.tech%2Fstats&query=%24.total_24h&label=attacks%20caught%20%C2%B7%2024h&color=ef4444&labelColor=0c0a09&style=flat-square"></a>
-  <a href="https://xivlabs.tech/#attacks"><img alt="unique attacking IPs in the last 24h" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhive.xivlabs.tech%2Fstats&query=%24.unique_sources_24h&label=unique%20IPs&color=a8a29e&labelColor=0c0a09&style=flat-square"></a>
-  <a href="https://xivlabs.tech/#attacks"><img alt="most tried password" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhive.xivlabs.tech%2Fstats&query=%24.top_passwords%5B0%5D.k&label=top%20password&color=5d574e&labelColor=0c0a09&style=flat-square"></a>
+  <a href="https://xivlabs.tech/#attacks"><img alt="hive attacks in the last 24h" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhive.xivlabs.tech%2Fstats&query=%24.total_24h&label=attacks%20caught%20%C2%B7%2024h&color=000000&labelColor=5d574e&style=flat-square"></a>
+  <a href="https://xivlabs.tech/#attacks"><img alt="unique attacking IPs in the last 24h" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhive.xivlabs.tech%2Fstats&query=%24.unique_sources_24h&label=unique%20IPs&color=000000&labelColor=5d574e&style=flat-square"></a>
+  <a href="https://xivlabs.tech/#attacks"><img alt="most tried password" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhive.xivlabs.tech%2Fstats&query=%24.top_passwords%5B0%5D.k&label=top%20password&color=000000&labelColor=5d574e&style=flat-square"></a>
 </p>
 
 <p align="center"><sub>Live from <a href="https://github.com/itsF4LCON/hive">hive</a>, my honeypot. Every number above is someone trying to break in.</sub></p>
@@ -54,6 +51,6 @@
 
 ### Stack
 
-<img alt="Rust, Python, JavaScript, Swift, C#, Cloudflare, Linux" src="https://skillicons.dev/icons?i=rust,py,js,swift,cs,cloudflare,linux&theme=dark" height="40">
+<img alt="Rust, Python, JavaScript, Swift, C#, Cloudflare, Linux" src="https://skillicons.dev/icons?i=rust,py,js,swift,cs,cloudflare,linux&theme=light" height="40">
 
 <sub>Cloudflare Workers · Durable Objects · D1 · KV · Tunnel · Access</sub>

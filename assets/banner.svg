@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <rect x="1" y="1" width="1198" height="238" rx="12" fill="#f5f1e8" stroke="#c8c0b3" stroke-width="2"/>
+  <text x="64" y="128" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="76" font-weight="500" letter-spacing="-2" fill="#000000">F4LCON</text>
+  <text x="66" y="176" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#5d574e">Security tools and things that run at the edge.</text>
+  <text x="1136" y="176" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,Menlo,Consolas,monospace" font-size="16" fill="#5d574e">xivlabs.tech</text>
+</svg>
