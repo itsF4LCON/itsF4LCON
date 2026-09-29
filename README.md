@@ -15,6 +15,7 @@
 
 ### Stack
 
-<img alt="Rust, Python, JavaScript, Swift, C#, Cloudflare, Linux" src="https://skillicons.dev/icons?i=rust,py,js,swift,cs,cloudflare,linux&theme=light" height="40">
+<p align="center">
+  <img src="assets/stack.png" alt="Tech Stack" width="720">
+</p>
 
-<sub>Cloudflare Workers · Durable Objects · D1 · KV · Tunnel · Access</sub>
