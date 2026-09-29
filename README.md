@@ -15,7 +15,4 @@
 
 ### Stack
 
-<p align="center">
-  <img src="assets/stack.png" alt="Tech Stack" width="100%">
-</p>
-
+<p align="center">Rust · Python · Cloudflare Workers · D1 · WebRTC · Swift</p>
