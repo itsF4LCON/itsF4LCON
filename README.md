@@ -16,6 +16,6 @@
 ### Stack
 
 <p align="center">
-  <img src="assets/stack.png" alt="Tech Stack" width="720">
+  <img src="assets/stack.png" alt="Tech Stack" width="100%">
 </p>
 
