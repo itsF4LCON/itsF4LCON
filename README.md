@@ -15,4 +15,4 @@
 
 ### Stack
 
-<p align="center">Rust · Python · Cloudflare Workers · D1 · WebRTC · Swift</p>
+<p>Rust · Python · Cloudflare Workers · D1 · WebRTC · Swift</p>
