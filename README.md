@@ -10,44 +10,6 @@
 
 <p align="center"><sub>Live from <a href="https://github.com/itsF4LCON/hive">hive</a>, my honeypot. Every number above is someone trying to break in.</sub></p>
 
-### Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/itsF4LCON/aps">aps</a></b> <sub>Rust</sub><br>
-      Edge anti-phishing scanner that judges a link in under 15ms.<br>
-      <sub><a href="https://xivlabs.tech/#aps-demo">Try it</a></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/itsF4LCON/hive">hive</a></b> <sub>Rust</sub><br>
-      SSH/HTTP honeypot that lets no one in and maps every attempt.<br>
-      <sub><a href="https://xivlabs.tech/#attacks">Attack map</a> · <a href="https://xivlabs.tech/reports">Reports</a></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/itsF4LCON/hive-blocklist">hive-blocklist</a></b> <sub>Python</sub><br>
-      Self-updating blocklist of the IPs attacking hive, rebuilt weekly.<br>
-      <sub><a href="https://github.com/itsF4LCON/hive-blocklist/tree/main/lists">Get the list</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/itsF4LCON/postburn">postburn</a></b> <sub>Rust</sub><br>
-      One-time secret links. The server never sees the key.<br>
-      <sub><a href="https://burn.xivlabs.tech">Send a secret</a></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/itsF4LCON/desk">desk</a></b> <sub>Rust</sub><br>
-      Your Linux desktop in any browser, 1080p60 over WebRTC.<br>
-      <sub>Self-hosted</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/itsF4LCON/dealbreaker">dealbreaker</a></b> <sub>Rust</sub><br>
-      Card game for 2-8 friends where special cards start mini-games.<br>
-      <sub><a href="https://dealbreaker.xivlabs.tech">Play now</a></sub>
-    </td>
-  </tr>
-</table>
 
 ### Stack
 
