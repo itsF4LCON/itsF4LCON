@@ -16,3 +16,15 @@
 ### Stack
 
 <p>Rust · Python · Cloudflare Workers · D1 · WebRTC · Swift · JavaScript</p>
+
+### Contributions
+
+<p><a href="https://github.com/gvozdetsky/ruxen/pull/271">ruxen #271</a>: unified HTTP status lines to match nginx (Rust)</p>
+
+### Now
+
+<p>Measuring <a href="https://github.com/itsF4LCON/swordfish">swordfish</a>'s accuracy against gitleaks · building Stoop, a recon toolkit in Rust</p>
+
+### Contact
+
+<p>Open to security internships and junior pentest roles · <a href="mailto:rangeerts@gmail">email</a> · <a href="https://xivlabs.tech">xivlabs.tech</a></p>
