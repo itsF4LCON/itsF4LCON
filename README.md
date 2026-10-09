@@ -27,4 +27,4 @@
 
 ### Contact
 
-<p>Open to security internships and junior pentest roles · <a href="mailto:rangeerts@gmail">email</a> · <a href="https://xivlabs.tech">xivlabs.tech</a></p>
+<p>Open to security internships and junior pentest roles · <a href="mailto:rangeerts@proton.me">email</a> · <a href="https://xivlabs.tech">xivlabs.tech</a></p>
