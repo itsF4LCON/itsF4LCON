@@ -21,6 +21,7 @@
 
 <p><a href="https://github.com/gvozdetsky/ruxen/pull/271">ruxen #271</a>: unified HTTP status lines to match nginx (Rust)</p>
 <p><a href="https://github.com/storytold/photocraft/pull/2448">PhotoCraft #2448</a>: fixed grayscale linearization in OpenEXR/HDR export (Rust)</p>
+<p><a href="https://github.com/storytold/photocraft/pull/2731">PhotoCraft #2731</a>: added per-entry removal to the Home screen Recent files list, in 16 languages (Rust)</p>
 
 ### Now
 
