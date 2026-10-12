@@ -22,10 +22,12 @@
 <p><a href="https://github.com/gvozdetsky/ruxen/pull/271">ruxen #271</a>: unified HTTP status lines to match nginx (Rust)</p>
 <p><a href="https://github.com/storytold/photocraft/pull/2448">PhotoCraft #2448</a>: fixed grayscale linearization in OpenEXR/HDR export (Rust)</p>
 <p><a href="https://github.com/storytold/photocraft/pull/2731">PhotoCraft #2731</a>: added per-entry removal to the Home screen Recent files list, in 16 languages (Rust)</p>
+<p><a href="https://github.com/storytold/photocraft/pull/3465">PhotoCraft #3465</a>: hold ~ to erase with Brush and Pencil, plus a Clear mode (Rust)</p>
+<p><a href="https://github.com/storytold/photocraft/pull/3545">PhotoCraft #3545</a>: History panel snapshots: camera button, snapshot rows and commands (Rust)</p>
 
 ### Now
 
-<p>Benchmarked <a href="https://github.com/itsF4LCON/swordfish">swordfish</a> against gitleaks (<a href="https://github.com/itsF4LCON/swordfish/tree/main/bench/accuracy">results</a>) · next: scoring its leak timelines · building Stoop, a recon toolkit in Rust</p>
+<p>Benchmarked <a href="https://github.com/itsF4LCON/swordfish">swordfish</a> against gitleaks (<a href="https://github.com/itsF4LCON/swordfish/tree/main/bench/accuracy">results</a>) · next: scoring its leak timelines · building Stoop, a recon toolkit in Rust · building Basilisk, a self-hosted Minecraft server platform in Rust (agent, web panel, relay)</p>
 
 ### Contact
 
