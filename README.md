@@ -19,16 +19,8 @@
 
 ### Contributions
 
-<p><b>27 pull requests merged</b> into <a href="https://github.com/nushell/nushell">nushell</a>, <a href="https://github.com/storytold/photocraft">PhotoCraft</a> and <a href="https://github.com/gvozdetsky/ruxen">ruxen</a>, all Rust.</p>
-
-<p><a href="https://github.com/nushell/nushell/pull/19205">nushell #19205</a>: <code>open</code>, <code>save</code> and <code>http get</code> give a clear error when a file converter is an alias</p>
-<p><a href="https://github.com/gvozdetsky/ruxen/pull/271">ruxen #271</a>: unified HTTP status lines to match nginx</p>
-<p><a href="https://github.com/storytold/photocraft/pull/4870">PhotoCraft #4870</a>: Distort draws only the front side of a quad dragged past the horizon (projective geometry)</p>
-<p><a href="https://github.com/storytold/photocraft/pull/3545">PhotoCraft #3545</a>: History panel snapshots: camera button, snapshot rows and commands</p>
-<p><a href="https://github.com/storytold/photocraft/pull/4371">PhotoCraft #4371</a>: Smart Filters can be selected and dragged onto another smart object</p>
-
 <details>
-<summary>All merged pull requests</summary>
+<summary><b>27 pull requests merged</b> into nushell, PhotoCraft and ruxen, all Rust</summary>
 
 | Project | PR | What it does |
 |---|---|---|
