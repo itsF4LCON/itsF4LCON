@@ -19,11 +19,48 @@
 
 ### Contributions
 
-<p><a href="https://github.com/gvozdetsky/ruxen/pull/271">ruxen #271</a>: unified HTTP status lines to match nginx (Rust)</p>
-<p><a href="https://github.com/storytold/photocraft/pull/2448">PhotoCraft #2448</a>: fixed grayscale linearization in OpenEXR/HDR export (Rust)</p>
-<p><a href="https://github.com/storytold/photocraft/pull/2731">PhotoCraft #2731</a>: added per-entry removal to the Home screen Recent files list, in 16 languages (Rust)</p>
-<p><a href="https://github.com/storytold/photocraft/pull/3465">PhotoCraft #3465</a>: hold ~ to erase with Brush and Pencil, plus a Clear mode (Rust)</p>
-<p><a href="https://github.com/storytold/photocraft/pull/3545">PhotoCraft #3545</a>: History panel snapshots: camera button, snapshot rows and commands (Rust)</p>
+<p><b>27 pull requests merged</b> into <a href="https://github.com/nushell/nushell">nushell</a>, <a href="https://github.com/storytold/photocraft">PhotoCraft</a> and <a href="https://github.com/gvozdetsky/ruxen">ruxen</a>, all Rust.</p>
+
+<p><a href="https://github.com/nushell/nushell/pull/19205">nushell #19205</a>: <code>open</code>, <code>save</code> and <code>http get</code> give a clear error when a file converter is an alias</p>
+<p><a href="https://github.com/gvozdetsky/ruxen/pull/271">ruxen #271</a>: unified HTTP status lines to match nginx</p>
+<p><a href="https://github.com/storytold/photocraft/pull/4870">PhotoCraft #4870</a>: Distort draws only the front side of a quad dragged past the horizon (projective geometry)</p>
+<p><a href="https://github.com/storytold/photocraft/pull/3545">PhotoCraft #3545</a>: History panel snapshots: camera button, snapshot rows and commands</p>
+<p><a href="https://github.com/storytold/photocraft/pull/4371">PhotoCraft #4371</a>: Smart Filters can be selected and dragged onto another smart object</p>
+
+<details>
+<summary>All merged pull requests</summary>
+
+| Project | PR | What it does |
+|---|---|---|
+| nushell | [#19205](https://github.com/nushell/nushell/pull/19205) | Clear error when the `from`/`to` converter of `open`/`save`/`http get` is an alias |
+| ruxen | [#271](https://github.com/gvozdetsky/ruxen/pull/271) | One HTTP status reason table, matching nginx |
+| PhotoCraft | [#4898](https://github.com/storytold/photocraft/pull/4898) | Layer locks: locking pixels clears the transparency lock |
+| PhotoCraft | [#4880](https://github.com/storytold/photocraft/pull/4880) | Alerts: Enter is OK, but not the Enter that raised the alert |
+| PhotoCraft | [#4870](https://github.com/storytold/photocraft/pull/4870) | Distort: a quad dragged past the horizon draws only its front side |
+| PhotoCraft | [#4854](https://github.com/storytold/photocraft/pull/4854) | Navigator: one compact zoom row |
+| PhotoCraft | [#4801](https://github.com/storytold/photocraft/pull/4801) | New Document: custom background colour |
+| PhotoCraft | [#4730](https://github.com/storytold/photocraft/pull/4730) | Pen: a new path joins the selected path |
+| PhotoCraft | [#4705](https://github.com/storytold/photocraft/pull/4705) | Load Files into Stack dialog |
+| PhotoCraft | [#4687](https://github.com/storytold/photocraft/pull/4687) | Move tool: curved rotate cursor outside the transform box |
+| PhotoCraft | [#4637](https://github.com/storytold/photocraft/pull/4637) | Align and Distribute with the Background layer selected |
+| PhotoCraft | [#4612](https://github.com/storytold/photocraft/pull/4612) | Pen: close-path cursor over the first anchor |
+| PhotoCraft | [#4607](https://github.com/storytold/photocraft/pull/4607) | Layers panel menus: highlight on press-drag |
+| PhotoCraft | [#4578](https://github.com/storytold/photocraft/pull/4578) | Save for Web: no matte by default |
+| PhotoCraft | [#4563](https://github.com/storytold/photocraft/pull/4563) | New Brush Preset dialog |
+| PhotoCraft | [#4510](https://github.com/storytold/photocraft/pull/4510) | Shapes: test for the options bar Fill swatch |
+| PhotoCraft | [#4479](https://github.com/storytold/photocraft/pull/4479) | Puppet Warp: undo and redo pin edits |
+| PhotoCraft | [#4425](https://github.com/storytold/photocraft/pull/4425) | SVG: clipped groups open as editable shapes with a vector mask |
+| PhotoCraft | [#4411](https://github.com/storytold/photocraft/pull/4411) | Recent files: saved documents are listed |
+| PhotoCraft | [#4405](https://github.com/storytold/photocraft/pull/4405) | Save As: ICO, GIF and BMP |
+| PhotoCraft | [#4399](https://github.com/storytold/photocraft/pull/4399) | Color panel: spectrum field in every theme |
+| PhotoCraft | [#4390](https://github.com/storytold/photocraft/pull/4390) | Actions: record and play back Save a Copy |
+| PhotoCraft | [#4371](https://github.com/storytold/photocraft/pull/4371) | Smart Filters: select and drag onto another smart object |
+| PhotoCraft | [#3545](https://github.com/storytold/photocraft/pull/3545) | History panel snapshots |
+| PhotoCraft | [#3465](https://github.com/storytold/photocraft/pull/3465) | Brush and Pencil: hold ~ to erase, Clear mode |
+| PhotoCraft | [#2731](https://github.com/storytold/photocraft/pull/2731) | Home screen: remove single Recent entries (16 languages) |
+| PhotoCraft | [#2448](https://github.com/storytold/photocraft/pull/2448) | OpenEXR/HDR export: linearize grayscale documents |
+
+</details>
 
 ### Now
 
