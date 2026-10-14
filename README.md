@@ -56,7 +56,7 @@
 
 ### Now
 
-<p>Benchmarked <a href="https://github.com/itsF4LCON/swordfish">swordfish</a> against gitleaks (<a href="https://github.com/itsF4LCON/swordfish/tree/main/bench/accuracy">results</a>) · next: scoring its leak timelines · building Stoop, a recon toolkit in Rust · building Basilisk, a self-hosted Minecraft server platform in Rust (agent, web panel, relay)</p>
+<p>Benchmarked <a href="https://github.com/itsF4LCON/swordfish">swordfish</a> against gitleaks (<a href="https://github.com/itsF4LCON/swordfish/tree/main/bench/accuracy">results</a>) · next: scoring its leak timelines · building Stoop, a recon toolkit in Rust · building Basilisk, a self hosted Minecraft server platform in Rust (agent, web panel, relay)</p>
 
 ### Contact
 
