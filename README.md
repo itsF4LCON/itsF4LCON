@@ -20,7 +20,7 @@
 ### Contributions
 
 <details>
-<summary><b>27 pull requests merged</b> into nushell, PhotoCraft and ruxen, all Rust</summary>
+<summary><b>27 pull requests merged</b> into nushell, PhotoCraft and ruxen, all Rust · 14 more in review on PhotoCraft</summary>
 
 | Project | PR | What it does |
 |---|---|---|
@@ -51,6 +51,25 @@
 | PhotoCraft | [#3465](https://github.com/storytold/photocraft/pull/3465) | Brush and Pencil: hold ~ to erase, Clear mode |
 | PhotoCraft | [#2731](https://github.com/storytold/photocraft/pull/2731) | Home screen: remove single Recent entries (16 languages) |
 | PhotoCraft | [#2448](https://github.com/storytold/photocraft/pull/2448) | OpenEXR/HDR export: linearize grayscale documents |
+
+**In review**
+
+| Project | PR | What it does |
+|---|---|---|
+| PhotoCraft | [#6387](https://github.com/storytold/photocraft/pull/6387) | Video Frames to Layers: every page of a multi-page TIFF |
+| PhotoCraft | [#6386](https://github.com/storytold/photocraft/pull/6386) | Targa: RLE packets end with their scanline |
+| PhotoCraft | [#6366](https://github.com/storytold/photocraft/pull/6366) | Type: the text caret shows on a white background |
+| PhotoCraft | [#6351](https://github.com/storytold/photocraft/pull/6351) | Filters: the live preview at full resolution at 100 % |
+| PhotoCraft | [#6346](https://github.com/storytold/photocraft/pull/6346) | File › Open: a file type filter per format |
+| PhotoCraft | [#6344](https://github.com/storytold/photocraft/pull/6344) | Replace Color: a Result swatch that sets the sliders |
+| PhotoCraft | [#6338](https://github.com/storytold/photocraft/pull/6338) | Smart Filters: an edited filter previews again |
+| PhotoCraft | [#6335](https://github.com/storytold/photocraft/pull/6335) | Replace Color: the eyedropper is ready when it opens |
+| PhotoCraft | [#6039](https://github.com/storytold/photocraft/pull/6039) | Window › Arrange: tiles keep their documents and get rulers |
+| PhotoCraft | [#6038](https://github.com/storytold/photocraft/pull/6038) | Type: Korean paragraphs wrap between words |
+| PhotoCraft | [#6035](https://github.com/storytold/photocraft/pull/6035) | Image Size: Indexed Color resamples with Nearest Neighbor |
+| PhotoCraft | [#6030](https://github.com/storytold/photocraft/pull/6030) | Help › Search: typed letters go to the field |
+| PhotoCraft | [#6026](https://github.com/storytold/photocraft/pull/6026) | Marquee: Fixed Size selects exactly the entered size |
+| PhotoCraft | [#3567](https://github.com/storytold/photocraft/pull/3567) | History panel: New Snapshot dialog and the first snapshot |
 
 </details>
 
