@@ -80,3 +80,5 @@
 ### Contact
 
 <p>Open to security internships and junior pentest roles · <a href="mailto:rangeerts@proton.me">email</a> · <a href="https://xivlabs.tech">xivlabs.tech</a></p>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsF4LCON&theme=dark" alt="GitHub Streak" /></a>
